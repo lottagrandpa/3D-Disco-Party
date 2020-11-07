@@ -11,8 +11,8 @@ Animation
 --------
 All characters are animated to perform a dance to the music. The animation is encapsulated in the collada data format. Using the Three.AnimationMixer, animation is as simple as calling the update function in the render step. 
 
-Lights
-------
+Lighting
+---------
 Several different light sources illuminate the dance floor. Lighting is of upmost importance when creating an atmosphere suitable for a disco. A colorful spotlight is used to highlight the main character of the scene.
 
 Custom Shaders
@@ -23,8 +23,8 @@ Particle System
 ---------------
 Nothing makes a disco more complete than light spots rotating around the dance scene. This is achieved by using builtin ParticleSystem. 1500 light spots are are randomly placed on the scene, registered as particles and rotated around the dance floor. 
 
-Video
------
+Video Texture
+-------------
 In order to dance our characters need an adequate song. The music video for "Shape Of You" is added on a large screen on the backside of the dance floor. The video can be controlled by the keyboard inputs:
 * 'p' for play
 * ' ' for pause
