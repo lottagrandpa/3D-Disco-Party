@@ -61,10 +61,5 @@ Sponge Model: https://dddance.party/?ref=three
 Starfighter Model: https://dddance.party/?ref=three
 Shape.mp4 Video: https://www.youtube.com/watch?v=JGwWNGJdvx8
 
-Owned by
-------------
-Name: Jiaying Zhang
-Student ID : 119220961
-Programme: MSCIM
-Module Code : CS6105
+
 
