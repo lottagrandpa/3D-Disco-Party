@@ -1,7 +1,7 @@
 3D Disco Party
 ==============
 Due to the recent lockdown, going to the Disco is no longer possible. Therefore, 3D Disco Party will bring the party to your browser at home using Three.js library.  
-https://jiaying.zhangfr.gitlab.io/disco-party 
+https://jiaying.zhangfr.gitlab.io/disco-party/Assign/index.html
 
 Model Import
 ------------
