@@ -64,7 +64,7 @@ Attributions
 
 Author
 ------------
-Jiaying Zhang
+JIAYING ZHANG
 
 
 
