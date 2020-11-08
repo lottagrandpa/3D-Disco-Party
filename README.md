@@ -21,7 +21,7 @@ Custom Shaders are applied to three objects in the scene for special effects. Th
 
 Particle System
 ---------------
-Nothing makes a disco more complete than light spots rotating around the dance scene. This is achieved by using builtin ParticleSystem. 1500 light spots are are randomly placed on the scene, registered as particles and rotated around the dance floor. 
+Nothing makes a disco more complete than light spots rotating around the dance scene. This is achieved by using built-in ParticleSystem. 1500 light spots are are randomly placed on the scene, registered as particles and rotated around the dance floor. 
 
 Video Texture
 -------------
